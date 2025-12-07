@@ -117,7 +117,7 @@ Once the local network is running, use the fund script to send native tokens to 
 The address should be a valid **Midnight shielded address**, typically one generated within the **Midnight Lace Wallet**.
 
 ```bash
-yarn run fund mn_shield-addr_undeployed1234abcd...
+yarn fund mn_shield-addr_undeployed1234abcd...
 ```
 
 ### 4. Connect your dApp
