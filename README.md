@@ -7,7 +7,7 @@
 This setup is especially valuable for dApp developers who want to build and test against a fully local Midnight network instead of relying on public testnets, which may be unstable or temporarily unavailable.
 
 It also includes a **wallet funding tool**, solving a key gap:
-* When the Midnight Lace Wallet is connected to a local "Undeployed" network, **there is no built-in way to fund shielded addresses**. 
+* When the Midnight Lace Wallet is connected to a local "Undeployed" network, **there is no built-in way to fund shielded and unshielded addresses**. 
  
 This project provides that missing capability.
 
