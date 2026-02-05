@@ -36,6 +36,7 @@ Perfect for development, workshops, prototyping, CI, and experimentation.
 
 - 🔧 **Local Midnight network** via Docker Compose
 - 🏦 **Funding script** for sending native tokens to shielded addresses
+- 🏦 ** DUST registration script ** to register your newly-funded wallet for DUST generation
 - 🧪 Works without external testnets or faucets
 - 💼 Integrates with Midnight Lace Preview Wallet (“Undeployed” network)
 - 🔌 Uses standard local ports:
